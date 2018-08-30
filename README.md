@@ -12,4 +12,4 @@ Please find a list of all the file/methods and a short description of each below
 
 **toJadenCase.rb** - .toJadenCase - addition to the ```String``` class, method to use on a string that capitalizes the first letter of each word in that string
 
-
+**divisors.rb** - divisors(n) - given an integer n it will either return a string which tells you that the integer n is a prime number or an array of all prime factors of the integer n
