@@ -15,3 +15,5 @@ Please find a list of all the file/methods and a short description of each below
 **divisors.rb** - divisors(n) - given an integer n it will either return a string which tells you that the integer n is a prime number or an array of all prime factors of the integer n
 
 **isograms.rb** - is_isogram(string) - given a word, returns true or false whether it's an isogram or not. An isogram is a word that has no repeating letters in it, consecutively or non-consecutively. Will only work for a single word without spaces.
+
+**credit_card_mask.rb** - maskify(cc) - given a (assumed to be) 16-digit credit card in a string, replaces all but the last 4 digits with #. Will actually take any string and censor all but the last 4 characters
