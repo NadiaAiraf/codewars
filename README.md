@@ -13,3 +13,5 @@ Please find a list of all the file/methods and a short description of each below
 **toJadenCase.rb** - .toJadenCase - addition to the ```String``` class, method to use on a string that capitalizes the first letter of each word in that string
 
 **divisors.rb** - divisors(n) - given an integer n it will either return a string which tells you that the integer n is a prime number or an array of all prime factors of the integer n
+
+**isograms.rb** - is_isogram(string) - given a word, returns true or false whether it's an isogram or not. An isogram is a word that has no repeating letters in it, consecutively or non-consecutively. Will only work for a single word without spaces.
